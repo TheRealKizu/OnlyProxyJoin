@@ -1,0 +1,6 @@
+name: OnlyProxyJoin
+main: therealkizu.onlyproxyjoin.OnlyProxyJoin
+api: ["1.0.0"]
+version: "1.0.0"
+author: TheRealKizu
+website: https://therealkizu.tk
